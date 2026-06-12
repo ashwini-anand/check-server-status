@@ -83,6 +83,17 @@ Restart the client to enable the `check_server_status` tool.
 
 ---
 
+## Using the Tool
+
+Once added, you can directly use Antigravity to check if a website is up or down. Antigravity will automatically use this tool behind the scenes to verify the status.
+
+### Sample queries you can ask Antigravity:
+- *"Is google.com up right now?"*
+- *"Can you check if my local server at http://localhost:8000/ is running?"*
+- *"Verify if the website example.com is active."*
+
+---
+
 ## Client Configuration (Claude Desktop)
 
 To use this server in Claude Desktop, add it to your configuration file:
